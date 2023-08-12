@@ -61,14 +61,14 @@
 						<div class="filter-links filterable-nav">
 							<select class="mobile-filter">
 								<option value="*">Show all</option>
-								<option value=".skyscraper">Blog</option>
-								<option value=".shopping-center">Architecture</option>
-								<option value=".apartment">Gaming</option>
+								<option value=".skyscraper">skyscraper</option>
+								<option value=".shopping-center">shopping-center</option>
+								<option value=".apartment">apartment</option>
 							</select>
 							<a href="#" class="current wow fadeInRight" data-filter="*">Show all</a>
-							<a href="#" class="wow fadeInRight" data-wow-delay=".2s" data-filter=".skyscraper">Blog</a>
-							<a href="#" class="wow fadeInRight" data-wow-delay=".4s" data-filter=".shopping-center">Architecture</a>
-							<a href="#" class="wow fadeInRight" data-wow-delay=".6s" data-filter=".apartment">Gaming</a>
+							<a href="#" class="wow fadeInRight" data-wow-delay=".2s" data-filter=".skyscraper">skyscraper</a>
+							<a href="#" class="wow fadeInRight" data-wow-delay=".4s" data-filter=".shopping-center">shopping-center</a>
+							<a href="#" class="wow fadeInRight" data-wow-delay=".6s" data-filter=".apartment">apartment</a>
 						</div>
 
 						<div class="filterable-items">
