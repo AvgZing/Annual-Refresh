@@ -1679,13 +1679,13 @@ form input[type="submit"], form button, form input[type="reset"] {
     height: 0; }
 
 .project-item {
-  width: 33.333%;
+  width: 29%;
   padding: 0 15px;
   margin-bottom: 30px;
   float: left; }
   @media screen and (max-width: 768px) {
     .project-item {
-      width: 50%; } }
+      width: 43%; } }
   @media screen and (max-width: 480px) {
     .project-item {
       width: 100%; } }
