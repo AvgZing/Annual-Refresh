@@ -1413,9 +1413,9 @@ form input[type="submit"], form button, form input[type="reset"] {
         font-size: 30px;
         font-size: 2.1428571429em; }
         .hero-slider .flex-direction-nav li a.flex-prev {
-          background: url("images/prev.png"); }
+          background: url("../images/prev.png"); }
         .hero-slider .flex-direction-nav li a.flex-next {
-          background: url("images/next.png"); }
+          background: url("../images/next.png"); }
 
 .fullwidth-block {
   padding: 50px 0; }
@@ -1486,10 +1486,10 @@ form input[type="submit"], form button, form input[type="reset"] {
       width: 14px;
       height: 14px;
       display: block;
-      background: url(images/paging-inactive.png) no-repeat;
+      background: url(../images/paging-inactive.png) no-repeat;
       cursor: pointer; }
       .testimonial-slider .flex-control-nav li a.flex-active {
-        background: url(images/paging-active.png) no-repeat; }
+        background: url(../images/paging-active.png) no-repeat; }
 
 .news {
   list-style: none; }
